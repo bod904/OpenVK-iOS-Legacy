@@ -1,0 +1,34 @@
+
+/* Login */
+
+"ERROR_GENERIC" = "Error";
+"ERROR_INTERNET_PROBLEMS" = "There is some problems with your internet connection or server itself. Please, try later.";
+"ERROR_INCORRECT_LOGIN_OR_PASSWORD" = "Incorrect password or login";
+"ERROR_TWO_FACTOR_TITLE" = "Two-factor code";
+"ERROR_TWO_FACTOR_DESC" = "Please enter your 2FA code";
+
+"CANCEL" = "Cancel";
+
+/* Settings */
+
+"LOGOUT_DIALOG_TITLE" = "Log out";
+"LOGOUT_DIALOG_DESC" = "Are you really sure?";
+"LOGOUT_DIALOG_NO" = "Nope";
+"LOGOUT_DIALOG_YES" = "Yes";
+
+/* Instance Manager */
+
+"ERROR_INSTANCE_URL_EMPTY_DESC" = "URL cannot be empty";
+"ERROR_INSTANCE_URL_VKCOM_UNSUPPORTED" = "We're not providing support for original VK API yet";
+
+/* Messages */
+
+"ERROR_NO_RIGHTS" = "Failed to send a message. Maybe, you don't have rights to send messages to this user.";
+"ERROR_VK_NOT_SUPPORTED_TITLE" = "Read this carefully!";
+"ERROR_VK_NOT_SUPPORTED_CONTENT" = "This client DOES NOT SUPPORT original VK, it works only with OpenVK instances. More info you can find in any search engine you may use";
+
+/* Pull to refresh */
+
+"PULL_TO_REFRESH" = "Pull to refresh...";
+"RELEASE_TO_REFRESH" = "Release to refresh...";
+"LOADING" = "Loading...";

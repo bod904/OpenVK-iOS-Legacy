@@ -1,0 +1,34 @@
+
+/* Login */
+
+"ERROR_GENERIC" = "Ошибка";
+"ERROR_INTERNET_PROBLEMS" = "Проблемы с подключением к интернету или произошла авария на сервере. Повторите попытку позже.";
+"ERROR_INCORRECT_LOGIN_OR_PASSWORD" = "Неверный логин или пароль";
+"ERROR_TWO_FACTOR_TITLE" = "Двухфакторная аутентификация";
+"ERROR_TWO_FACTOR_DESC" = "Введите код";
+
+"CANCEL" = "Отмена";
+
+/* Settings */
+
+"LOGOUT_DIALOG_TITLE" = "Выйти";
+"LOGOUT_DIALOG_DESC" = "Вы уверены? Или ну его нафиг? :D";
+"LOGOUT_DIALOG_NO" = "Не-а";
+"LOGOUT_DIALOG_YES" = "Да";
+
+/* Instance Manager */
+
+"ERROR_INSTANCE_URL_EMPTY_DESC" = "Ссылка не может быть пуста";
+"ERROR_INSTANCE_URL_VKCOM_UNSUPPORTED" = "Пока-что мы не предоставляем поддержку API для оригинального ВКонтакте";
+
+/* Messages */
+
+"ERROR_NO_RIGHTS" = "Не удалось отправить сообщение. Возможно, этому препятствуют настройки приватности.";
+"ERROR_VK_NOT_SUPPORTED_TITLE" = "Минуточку внимания!";
+"ERROR_VK_NOT_SUPPORTED_CONTENT" = "Данный клиент НЕ ПОДДЕРЖИВАЕТ вход в оригинальный ВКонтакте, он предназначен только для инстанций на основе OpenVK. Подробнее можете узнать в любой поисковой системе";
+
+/* Pull to refresh */
+
+"PULL_TO_REFRESH" = "Потяни, чтобы обновить...";
+"RELEASE_TO_REFRESH" = "Отпусти, чтобы обновить...";
+"LOADING" = "Загрузка...";
