@@ -1,6 +1,6 @@
 Legacy iOS client for OpenVK instances.
 
-Supports iOS 6.0, supports iPhones and iPads (really messy, will be fixed)
+Supports iOS 6.0, supports iPhones and iPads (iPad version really messy, will be fixed)
 
 There’s a lot of bugs making this app annoying sometimes. Updates will be released infrequently. But me with my friend TimurG will commit once in sometimes, also if you’re an experienced developer in this legacy mess, we would appreaciate any pull requests, and we will review them.
 
